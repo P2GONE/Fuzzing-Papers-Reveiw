@@ -1,5 +1,4 @@
-# SnapCC Effective File System Consistency Testing Using
-Systematic State Exploration
+# SnapCC Effective File System Consistency Testing Using Systematic State Exploration
 
 과연 기존 파일 시스템 퍼저(Hydra, B3)는 최신 파일 시스템 기능인 압축/스냅샷/암호화를 반영했는가? 안했다면 어떻게 해야 탐색을 할 수 있을까?
 
